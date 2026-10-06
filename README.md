@@ -37,12 +37,12 @@ Ich helfe anderen gern weiter, arbeite am liebsten **im Team** — und **alleine
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GalasMichal&show_icons=true&theme=react&include_all_commits=true" alt="GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalasMichal&layout=compact&theme=react" alt="Top languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GalasMichal&show_icons=true&theme=react&hide=contributed" alt="GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalasMichal&layout=compact&theme=react&size_weight=0.5&count_weight=0.5" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=GalasMichal&theme=react" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=GalasMichal&theme=react&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GalasMichal&theme=react-dark&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/GalasMichal" alt="GitHub contributions" />
 
 </div>
 
@@ -51,7 +51,7 @@ Ich helfe anderen gern weiter, arbeite am liebsten **im Team** — und **alleine
 | | |
 |:---:|:---:|
 | [**genesis**](https://github.com/GalasMichal/genesis) — Flutter-Gitarrenapp | [**linux-lokales-ki**](https://github.com/GalasMichal/linux-lokales-ki) — lokaler KI-Stack |
-| <img src="https://raw.githubusercontent.com/GalasMichal/genesis/main/docs/assets/readme/lernen.png" width="200" alt="genesis Lernen" /> | <img src="https://raw.githubusercontent.com/GalasMichal/linux-lokales-ki/main/docs/assets/readme/ki-arbeitsplatz-system.png" width="200" alt="linux-lokales-ki" /> |
+| <img src="https://raw.githubusercontent.com/GalasMichal/genesis/main/docs/assets/readme/lernen.png" width="200" alt="genesis Lernen" /> | <img src="https://raw.githubusercontent.com/GalasMichal/linux-lokales-ki/main/docs/assets/readme/ki-arbeitsplatz-system.png" width="200" alt="linux-lokales-ki KI-Arbeitsplatz" /> |
 
 - **[DA_Bubble](https://github.com/GalasMichal/DA_Bubble)** — Team-Chat / Messenger (Angular, Firebase)
 - **[Portfolio](https://michal-galas.de)** — persönliche Seite · [Repo](https://github.com/GalasMichal/Portfolio)
