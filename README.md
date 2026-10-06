@@ -55,7 +55,8 @@ Ich helfe anderen gern weiter, arbeite am liebsten **im Team** — und **alleine
 
 - **[DA_Bubble](https://github.com/GalasMichal/DA_Bubble)** — Team-Chat / Messenger (Angular, Firebase)
 - **[Portfolio](https://michal-galas.de)** — persönliche Seite · [Repo](https://github.com/GalasMichal/Portfolio)
-- **mg-games** — Kinderspiele (Site im Umbau, Store wartet auf DUNS)
+- **[mg-games](https://mg-games.de)** — Kinderspiele (Live; Quellcode privat, Site im Umbau)
+- GIS / OpenLayers beruflich — nur öffentliche Vorschau auf der Website, kein Public-Repo
 
 ## Kontakt
 
